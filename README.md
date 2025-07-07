@@ -51,7 +51,9 @@ rsn_pairwise=CCMP
 
 Remember to launch this from `hostap` dir. Otherwise, adjust to point to the compiled hostapd binary.
 
-If successful, your system will act as a vulnerable AP, allowing PMKID capture.
+If successful, your system will act as a vulnerable AP, allowing PMKID capture. Now you can use [hcxdumptool](https://github.com/ZerBea/hcxdumptool) or [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) or any other tool which automates the capture process.
+
+If successful, your system will act as a vulnerable access point (AP), allowing PMKID capture. You can now use [hcxdumptool](https://github.com/ZerBea/hcxdumptool), [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon), or any other tool that automates the capture process.
 
 ## ⚠️ Disclaimer
 
