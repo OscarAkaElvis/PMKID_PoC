@@ -14,7 +14,7 @@ To compile this PoC on Debian-based distributions (e.g. Parrot, Kali, Ubuntu), i
 
 ```
 sudo apt update
-sudo apt install build-essential libnl-3-dev libfl-dev libnl-genl-3-dev libssl-dev pkg-config libreadline-dev libdbus-1-dev
+sudo apt install build-essential libnl-3-dev libnl-genl-3-dev libssl-dev pkg-config
 ```
 
 ## Installation
